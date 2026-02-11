@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas** no IFSC - São José (1ª fase)  
+Estudante de **Análise e Desenvolvimento de Sistemas** no IFSC - São José (2ª fase)  
 Atualmente aprendendo **Java**  
 Experiência com **Linux** e administração de servidores simples  
 Já configurei e hospedei servidores de **Minecraft** via Ubuntu Server e acesso SSH (incluindo port forwarding WAN)  
