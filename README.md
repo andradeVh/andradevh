@@ -34,10 +34,11 @@ Desenvolvo soluções de **Self-Healing Systems** e automação de servidores ut
 
 ## GitHub Stats
 
-div align="center">
+<div align="center">
   
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andradevh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/andradevh">
+    <img src="https://streak-stats.demolab.com/?user=andradevh&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+  </a>
 
 </div>
 
