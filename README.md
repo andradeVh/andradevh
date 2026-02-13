@@ -8,10 +8,9 @@
 
 ## Sobre mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas** no IFSC - São José (2ª fase)  
-Atualmente aprendendo **Java**  
-Experiência com **Linux** e administração de servidores simples  
-Já configurei e hospedei servidores de **Minecraft** via Ubuntu Server e acesso SSH (incluindo port forwarding WAN)  
+Estudante de **Análise e Desenvolvimento de Sistemas** no IFSC - Campus São José (2ª fase).  
+Focado em **Infraestrutura Cloud**, **Virtualização** e **Segurança de Redes**.  
+Desenvolvo soluções de **Self-Healing Systems** e automação de servidores utilizando Linux e Docker.
 
 ## Tecnologias & Ferramentas
 
@@ -19,37 +18,34 @@ Já configurei e hospedei servidores de **Minecraft** via Ubuntu Server e acesso
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-###  Atualmente aprendendo
-- **Java** - Fundamentos de POO e desenvolvimento de aplicações
-- **Servidores Linux** - Configuração e administração
+### Aprendendo
+- **Java** - Aprofundando em POO e estruturas de dados.
+- **Docker & Orquestração** - Deploy de microserviços e gestão de recursos.
+- **Redes Avançadas** - Túneis reversos, SSH Hardening e superação de CGNAT.
 
-###  Experiências
-- 🎮 Configuração e hospedagem de servidor de jogos
-- 🐧 Linux (Ubuntu Server, configuração básica de rede e serviços)  
-- 🌐 Servidores simples (configuração e hosteamento)  
-- ⚙️ Gerenciamento de servidores
+### Projeto em Destaque
+⭐ **[Asteroid B-612](https://github.com/andradeVh/b612-homelab)**: Um ecossistema Homelab com monitoramento de integridade automático (*Self-Healing*), orquestração de containers (TeamSpeak/Minecraft) e segurança via chaves criptográficas.
 
 ## GitHub Stats
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andradevh&show_icons=true&theme=tokyonight&hide_border=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andradevh&layout=compact&theme=tokyonight&hide_border=true)
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andradevh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
-## 🎓 Formação
+## Formação
 
-**Análise e Desenvolvimento de Sistemas**  
-*Instituto Federal de Santa Catarina (IFSC) - Campus São José*  
-2025/2 (1ª Fase)
+**Análise e Desenvolvimento de Sistemas** *Instituto Federal de Santa Catarina (IFSC) - Campus São José* *Início em 2025/2*
 
-## 📫 Como me encontrar
+## Como me encontrar
 
 <div align="center">
 
