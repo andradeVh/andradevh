@@ -4,7 +4,7 @@
 
 Estudante de **Análise e Desenvolvimento de Sistemas** no IFSC - Campus São José.
 
-Atualmente estou focado em programação de microcontroladores usando C e MicroPython.
+Atualmente estou focado em programação de microcontroladores usando C/C++.
 
 ## Tecnologias & Ferramentas
 
@@ -30,9 +30,9 @@ Atualmente estou focado em programação de microcontroladores usando C e MicroP
 Atualmente, atuo como pesquisador/desenvolvedor no projeto institucional:
 **"Acionando a Inclusão: desenvolvimento de tecnologia assistiva para a escola"**
 
-**O que fazemos:** Desenvolvemos acionadores de mouse acessíveis de baixo custo (sem fio) para pessoas com deficiência, integrando modelagem/impressão 3D e microcontroladores.
+**O que fazemos:** Desenvolvemos dispositivos de baixo custo para pessoas com deficiência, permitindo controlarem com mais facilidade computadores e celulares, integrando modelagem/impressão 3D e microcontroladores.
 
-**Minha contribuição:** Focado no estudo e desenvolvimento da lógica de hardware/software livre, utilizando **MicroPython** e **C** para a programação e prototipagem dos dispositivos (como ESP32), além da arquitetura de sistemas microcontrolados e documentação em repositórios abertos.
+**Minha contribuição:** Focado no estudo e desenvolvimento da lógica de código e suas otimizações, utilizando **C** e **C++** para a programação e prototipagem dos dispositivos (como ESP32), além da arquitetura de sistemas microcontrolados e documentação em repositórios abertos.
 
 **Keywords:** Comunicação Aumentativa e Alternativa (CAA), IoT, Tecnologia Assistiva, Open Source.
 
