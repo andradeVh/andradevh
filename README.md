@@ -1,10 +1,6 @@
-# Olá, eu sou Victor Hugo 🐧
-
-## Sobre mim
-
 Estudante de **Análise e Desenvolvimento de Sistemas** no IFSC - Campus São José.
 
-Atualmente estou focado em programação de microcontroladores usando C/C++.
+FOcando em programação de microcontroladores usando C/C++.
 
 ## Tecnologias & Ferramentas
 
@@ -26,7 +22,7 @@ Atualmente estou focado em programação de microcontroladores usando C/C++.
 
 ---
 
-### Pesquisa & Inovação
+### Pesquisa
 Atualmente, atuo como pesquisador/desenvolvedor no projeto institucional:
 **"Acionando a Inclusão: desenvolvimento de tecnologia assistiva para a escola"**
 
