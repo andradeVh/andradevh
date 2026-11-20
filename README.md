@@ -1,6 +1,6 @@
-Estudante de **Análise e Desenvolvimento de Sistemas** no IFSC - Campus São José.
+## Estudante de **Análise e Desenvolvimento de Sistemas** no IFSC - Campus São José.
 
-FOcando em programação de microcontroladores usando C/C++.
+Focando em programação de microcontroladores usando C/C++.
 
 ## Tecnologias & Ferramentas
 
